@@ -1,3 +1,8 @@
+
+
+<img width="1242" height="641" alt="Screenshot (508)" src="https://github.com/user-attachments/assets/3e0c1f85-0f3d-475f-98fc-dd2bbda1bdc5" />
+
+
 # 🏏 IPL Analytics & Machine Learning Prediction Dashboard (2008–2026)
 
 ![IPL Dashboard Banner](https://img.shields.io/badge/IPL_Dashboard-2008--2026-blue?style=for-the-badge&logo=cricket)
